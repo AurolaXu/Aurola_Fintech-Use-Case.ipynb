@@ -1,4 +1,4 @@
-# Aurola_Fintech-Use-Case.ipynb
+# Aurola_Fintech-Use-Case
 
 Project Scope
 In the project, I use LendingClub dataset to predict if an unknown loan will default or not. It is also a loan rate prediction.
